@@ -1,0 +1,11 @@
+{
+    "environment": "",
+    "isSandbox": false,
+    "auth": {
+        "user": "",
+        "pass": "",
+        "apikey": ""
+    },
+    "resourceType": "documents",
+    "uploadDirectory": ""
+}
