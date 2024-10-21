@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # results
-# docsToUpload/
+docsToUpload/
